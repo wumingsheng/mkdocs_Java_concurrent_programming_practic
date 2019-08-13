@@ -1,0 +1,8 @@
+site_name: Java 并发编程实战
+theme: ivory   #pip3 install mkdocs-windmill
+# theme: windmill   #pip3 install mkdocs-windmill
+# sudo pip3 install mkdocs-gitbook
+# theme:
+#   name: gitbook
+# theme:
+  # name: windmill
