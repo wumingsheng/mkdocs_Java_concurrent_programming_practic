@@ -1,29 +1,49 @@
-site_name: Java 并发编程实战
-theme: ivory   #pip3 install mkdocs-windmill
-# theme: windmill   #pip3 install mkdocs-windmill
-# sudo pip3 install mkdocs-gitbook
-# theme:
-#   name: gitbook
-# theme:
-  # name: windmill
-
-
-nav: 
-  - hollis:
-    - 既生synchronized，何生volatile？！: hollis/01.md
+site_name: springboot
 
 
 
+# pip install mkdocs-material
+theme:
+  language: 'en'
+  name: 'material'
+  palette:
+    primary: 'teal'
+    accent: 'white'
+
+
+extra_css:
+  - 'css/app.css'
 
 
 
+nav:
+  - 公众号:
+    - 既生synchronized，何生volatile？: hollis/02.md
+    - 再有人问你Java内存模型是什么，就把这篇文章发给他: hollis/01.md
+    - JVM内存结构 VS Java内存模型 VS Java对象模型: hollis/03.md
 
 
-
-
-
-
-
-
+# pip install pygments
+# pip install pymdown-extensions
+markdown_extensions:
+  - admonition
+  - smarty
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.critic
+  - tables
+  - pymdownx.mark
 
 
