@@ -6,3 +6,24 @@ theme: ivory   #pip3 install mkdocs-windmill
 #   name: gitbook
 # theme:
   # name: windmill
+
+
+nav: 
+  - hollis:
+    - 既生synchronized，何生volatile？！: hollis/01.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
