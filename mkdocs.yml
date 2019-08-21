@@ -21,6 +21,8 @@ nav:
     - 既生synchronized，何生volatile？: hollis/02.md
     - 再有人问你Java内存模型是什么，就把这篇文章发给他: hollis/01.md
     - JVM内存结构 VS Java内存模型 VS Java对象模型: hollis/03.md
+    - 再有人问你synchronized是什么，就把这篇文章发给他: hollis/04.md
+    - 再有人问你volatile是什么，把这篇文章也发给他: hollis/05.md
 
 
 # pip install pygments
