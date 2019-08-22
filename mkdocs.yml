@@ -23,6 +23,7 @@ nav:
     - JVM内存结构 VS Java内存模型 VS Java对象模型: hollis/03.md
     - 再有人问你synchronized是什么，就把这篇文章发给他: hollis/04.md
     - 再有人问你volatile是什么，把这篇文章也发给他: hollis/05.md
+    - Java的并发编程中的多线程问题到底是怎么回事儿？: hollis/06.md
 
 
 # pip install pygments
