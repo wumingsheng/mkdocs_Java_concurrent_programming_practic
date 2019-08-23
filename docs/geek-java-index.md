@@ -10,6 +10,7 @@
   * [03 | 互斥锁（上）：解决原子性问题](https://wumingsheng.github.io/mkdocs_Java_concurrent_programming_practic/geek/04/)
   * [04 | 互斥锁（下）：如何用一把锁保护多个资源？](https://wumingsheng.github.io/mkdocs_Java_concurrent_programming_practic/geek/05/)
   * [05 | 一不小心就死锁了，怎么办？](https://wumingsheng.github.io/mkdocs_Java_concurrent_programming_practic/geek/06/)
+  * [06 | 用“等待-通知”机制优化循环等待](https://wumingsheng.github.io/mkdocs_Java_concurrent_programming_practic/geek/07/)
 
 
 
